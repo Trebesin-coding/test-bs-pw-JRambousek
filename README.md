@@ -12,7 +12,7 @@ Vytvoř program *polevka.py*, který:
 
 ## 2. Playwright
 Vytvoř program *secret.py*, který:
-- se připojí následující [stránku]https://souhrada.github.io/playwright-exam/)
+- se připojí následující [stránku](https://souhrada.github.io/playwright-exam/)
 - vyplní přihlašovací údaje
 - vypíše do konzole tajnou zprávu, která se objeví po přihlášení
 
